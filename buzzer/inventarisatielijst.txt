@@ -1,0 +1,13 @@
+For this tutorial you will need:
+•	Arduino uno
+•	Breadboard
+•	Buzzer / piezo speaker
+•	100 Ohm resistor (optional)
+6 kabels
+Oplaadkabel
+
+
+
+Schakelaar 
+2 lampjes
+2x resister 220
